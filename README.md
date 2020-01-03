@@ -1,5 +1,9 @@
 # Ders Notları
 
+
+* [Fizik 1 Serway Çözümleri](https://github.com/PAUCENG/Ders-Notlari/tree/master/Fizik-1/serway-1/kaynak-1)
+* [Fizik 2 Erdoğan Yitik Ders Notları](https://github.com/PAUCENG/Ders-Notlari/tree/master/Fizik-2/Erdo%C4%9Fan%20Yitik/kaynak-1)
+
 ## Klasör Yapısı
 
 ```bash
